@@ -20,12 +20,17 @@ A simple Python project that tests typing speed and accuracy.
 ## How to Run
 
 ```bash
-
 python main.py
+```
 
-## project structure and Author
+## Project Structure
+
+```text
 Typing-Speed-Tester/
 ├── main.py
 └── README.md
+```
+
+## Author
 
 **Neha Nikam**
